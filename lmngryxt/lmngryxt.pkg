@@ -1,4 +1,5 @@
-D 'aic_model_selection': Forward Model Selection using AIC or BIC Use aic_model_selection With STATA 19
+D 'lmngryxt': Panel Data Non Normality Geary Runs Test Use lmngryxt With STATA 19
 D
-F aic_model_selection.ado
-F aic_model_selection.sthlp
+F lmngryxt.ado
+F lmngryxt.dlg
+F lmngryxt.sthlp

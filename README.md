@@ -1,6 +1,8 @@
 # lmngryxt
 Panel Data Non Normality Geary Runs Test Use lmngryxt With STATA 19
 
+https://www.youtube.com/watch?v=hH2dtmIFGm0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
